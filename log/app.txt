@@ -60,3 +60,113 @@ Session ID: 12544838-db1a-4ec1-b064-fdf19265b6f0
 2020-07-10 00:38:19.396 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:80)] - Clicked on button ...
 2020-07-10 00:38:19.401 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:128)] - Closing browser
 2020-07-10 00:38:22.498 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:136)] - browser closed
+2020-07-10 00:56:16.055 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:23)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 00:56:20.674 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:25)] - Driver Initialized
+2020-07-10 00:56:22.929 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:28)] - Browser maximized
+2020-07-10 00:57:03.452 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:23)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 00:57:07.831 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:25)] - Driver Initialized
+2020-07-10 00:57:10.032 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:28)] - Browser maximized
+2020-07-10 00:59:29.353 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:23)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 00:59:33.849 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:25)] - Driver Initialized
+2020-07-10 00:59:36.081 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:28)] - Browser maximized
+2020-07-10 01:08:41.698 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:24)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 01:08:50.120 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:26)] - Driver Initialized
+2020-07-10 01:08:51.940 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:29)] - Browser maximized
+2020-07-10 01:08:56.086 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 3 sec
+2020-07-10 01:08:59.088 INFO [main] [utility.Utils] [navigateTo] [utility.Utils.navigateTo(Utils.java:62)] - Navigated to site
+2020-07-10 01:09:06.607 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:09:06.608 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:09:26.495 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:09:28.215 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:09:30.078 ERROR [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:88)] - Exception occurred while clicking on button : The element reference of <div class="_8slc"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MISA', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 76.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200507114007, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 58384, moz:profile: C:\Users\Dj\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1d235ccf-23a7-4d38-ad75-5d1d9547491c
+2020-07-10 01:09:41.771 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:09:52.262 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:09:54.822 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:09:54.826 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:135)] - Closing browser
+2020-07-10 01:09:58.060 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:135)] - Closing browser
+2020-07-10 01:10:31.202 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:24)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 01:10:39.727 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:26)] - Driver Initialized
+2020-07-10 01:10:40.031 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:29)] - Browser maximized
+2020-07-10 01:10:43.269 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 3 sec
+2020-07-10 01:10:46.279 INFO [main] [utility.Utils] [navigateTo] [utility.Utils.navigateTo(Utils.java:62)] - Navigated to site
+2020-07-10 01:10:48.229 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:10:48.229 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:11:39.449 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:135)] - Closing browser
+2020-07-10 01:12:42.553 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:24)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 01:12:50.887 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:26)] - Driver Initialized
+2020-07-10 01:12:51.868 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:29)] - Browser maximized
+2020-07-10 01:12:56.256 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 3 sec
+2020-07-10 01:12:59.276 INFO [main] [utility.Utils] [navigateTo] [utility.Utils.navigateTo(Utils.java:62)] - Navigated to site
+2020-07-10 01:13:00.959 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:13:00.960 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:13:52.164 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:135)] - Closing browser
+2020-07-10 01:15:20.967 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:24)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 01:15:29.130 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:26)] - Driver Initialized
+2020-07-10 01:15:29.415 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:29)] - Browser maximized
+2020-07-10 01:15:36.045 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 3 sec
+2020-07-10 01:15:39.050 INFO [main] [utility.Utils] [navigateTo] [utility.Utils.navigateTo(Utils.java:62)] - Navigated to site
+2020-07-10 01:15:40.237 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:15:40.237 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:16:31.773 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:135)] - Closing browser
+2020-07-10 01:18:25.267 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:24)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 01:18:36.626 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:26)] - Driver Initialized
+2020-07-10 01:18:36.927 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:29)] - Browser maximized
+2020-07-10 01:18:43.292 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 3 sec
+2020-07-10 01:18:46.297 INFO [main] [utility.Utils] [navigateTo] [utility.Utils.navigateTo(Utils.java:62)] - Navigated to site
+2020-07-10 01:18:50.472 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:18:50.472 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:19:06.738 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:19:07.076 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:19:08.527 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:19:19.247 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:19:29.647 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:19:31.790 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:19:31.791 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:135)] - Closing browser
+2020-07-10 01:22:02.441 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:24)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 01:22:08.421 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:26)] - Driver Initialized
+2020-07-10 01:22:08.722 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:29)] - Browser maximized
+2020-07-10 01:22:14.078 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 3 sec
+2020-07-10 01:22:17.085 INFO [main] [utility.Utils] [navigateTo] [utility.Utils.navigateTo(Utils.java:62)] - Navigated to site
+2020-07-10 01:22:20.831 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:22:20.831 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:22:36.687 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:22:37.173 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:37)] - Going to sleep for 1 sec
+2020-07-10 01:22:38.508 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:22:49.195 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:22:59.597 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:23:01.600 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:84)] - Clicked on button ...
+2020-07-10 01:23:01.600 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:135)] - Closing browser
+2020-07-10 01:23:06.033 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:143)] - browser closed

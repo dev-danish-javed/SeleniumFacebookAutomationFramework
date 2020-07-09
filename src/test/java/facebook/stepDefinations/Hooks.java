@@ -13,6 +13,7 @@ public class Hooks extends Utils {
     @After
     public void afterTest(Scenario scenario) {
         if (scenario.isFailed()) {
+            takeScreenshot();
             FacebookMessenger facebookMessenger=new FacebookMessenger();
             try{
                 driver.findElement(By.xpath("//div[@aria-label='Account']")).click();
