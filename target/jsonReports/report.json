@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-07-09T18:41:25.730Z",
+        "start_timestamp": "2020-07-09T19:07:11.496Z",
         "line": 4,
         "name": "Check facebook messaging feature",
         "description": "",
@@ -11,7 +11,7 @@
         "after": [
           {
             "result": {
-              "duration": 2000000,
+              "duration": 3000000,
               "status": "passed"
             },
             "match": {
@@ -24,7 +24,7 @@
         "steps": [
           {
             "result": {
-              "duration": 17221000000,
+              "duration": 16791000000,
               "status": "passed"
             },
             "line": 5,
@@ -42,7 +42,7 @@
           },
           {
             "result": {
-              "duration": 6011000000,
+              "duration": 6529000000,
               "status": "passed"
             },
             "line": 6,
@@ -64,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 10455000000,
+              "duration": 10532000000,
               "status": "passed"
             },
             "line": 7,
@@ -76,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 7306000000,
+              "duration": 9341000000,
               "status": "passed"
             },
             "line": 8,
@@ -94,7 +94,7 @@
           },
           {
             "result": {
-              "duration": 1276000000,
+              "duration": 158000000,
               "status": "passed"
             },
             "line": 9,
@@ -112,7 +112,7 @@
           },
           {
             "result": {
-              "duration": 518000000,
+              "duration": 208000000,
               "status": "passed"
             },
             "line": 10,
@@ -130,7 +130,7 @@
           },
           {
             "result": {
-              "duration": 11251000000,
+              "duration": 11104000000,
               "status": "passed"
             },
             "line": 11,
@@ -142,7 +142,7 @@
           },
           {
             "result": {
-              "duration": 12881000000,
+              "duration": 13076000000,
               "status": "passed"
             },
             "line": 12,
@@ -154,7 +154,7 @@
           },
           {
             "result": {
-              "duration": 2735000000,
+              "duration": 3099000000,
               "status": "passed"
             },
             "line": 13,

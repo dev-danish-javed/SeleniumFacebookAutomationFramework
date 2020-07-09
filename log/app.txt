@@ -36,3 +36,27 @@
 2020-07-10 00:12:32.720 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:80)] - Clicked on button ...
 2020-07-10 00:12:32.722 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:128)] - Closing browser
 2020-07-10 00:12:35.456 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:136)] - browser closed
+2020-07-10 00:37:12.014 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:21)] - 
+
+========================================================== STARTING EXECUTION ==========================================================
+
+2020-07-10 00:37:19.879 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:23)] - Driver Initialized
+2020-07-10 00:37:20.179 INFO [main] [utility.Utils] [<clinit>] [utility.Utils.<clinit>(Utils.java:26)] - Browser maximized
+2020-07-10 00:37:25.431 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:34)] - Going to sleep for 3 sec
+2020-07-10 00:37:28.442 INFO [main] [utility.Utils] [navigateTo] [utility.Utils.navigateTo(Utils.java:59)] - Navigated to site
+2020-07-10 00:37:33.957 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:80)] - Clicked on button ...
+2020-07-10 00:37:33.958 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:34)] - Going to sleep for 1 sec
+2020-07-10 00:37:53.359 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:80)] - Clicked on button ...
+2020-07-10 00:37:53.839 INFO [main] [utility.Utils] [sleepHelper] [utility.Utils.sleepHelper(Utils.java:34)] - Going to sleep for 1 sec
+2020-07-10 00:37:55.006 ERROR [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:83)] - Exception occurred while clicking on button : The element reference of <div class="_8slc"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MISA', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 76.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200507114007, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 125084, moz:profile: C:\Users\Dj\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 12544838-db1a-4ec1-b064-fdf19265b6f0
+2020-07-10 00:38:06.321 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:80)] - Clicked on button ...
+2020-07-10 00:38:16.905 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:80)] - Clicked on button ...
+2020-07-10 00:38:19.396 INFO [main] [utility.Utils] [clickOnButton] [utility.Utils.clickOnButton(Utils.java:80)] - Clicked on button ...
+2020-07-10 00:38:19.401 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:128)] - Closing browser
+2020-07-10 00:38:22.498 INFO [main] [utility.Utils] [closeBrowser] [utility.Utils.closeBrowser(Utils.java:136)] - browser closed

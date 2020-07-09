@@ -6,7 +6,7 @@ IT CAN WORK ON OLD AND THE UPDATED, BOTH FACEBOOK UI
 
 To run that got to ./src/test/resources/Properties/Data
 
-There fill the deatails
+There fill the details
 
 Then to run it use command "mvn clean install -Dbrowser=firefox/chrome"	
 
