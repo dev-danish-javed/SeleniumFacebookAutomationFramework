@@ -1,0 +1,19 @@
+This framework is designed for facebook automation.
+
+Currently it has just one test case to automate facebook messaging.
+
+IT CAN WORK ON OLD AND THE UPDATED, BOTH FACEBOOK UI
+
+To run that got to ./src/test/resources/Properties/Data
+
+There fill the deatails
+
+Then to run it use command "mvn clean install -Dbrowser=firefox/chrome"	
+
+You can use firefox and chrome both, by default chrome is used
+
+============================ WhatsappWeb Automation========================
+It also a simple program to automate and message bomb your friend on whatsapp
+To use that you have to make two changes
+1. In PO_WhatsApp.java make changes in xpath of Person
+2. In CheckWhatsApp.java change the name of person in search()
