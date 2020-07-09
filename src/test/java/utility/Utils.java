@@ -155,7 +155,7 @@ public class Utils {
 
     public static void takeScreenshot()
     {
-
+        logger.info("Taking screenshot");
         SimpleDateFormat formatter = new SimpleDateFormat("dd_MM_yyyy_HH_mm_ss");
         Date date = new Date();
 
@@ -164,6 +164,7 @@ public class Utils {
         File DestFile=new File(".\\Screenshot\\"+formatter.format(date)+".png");
         try{
             FileUtils.copyFile(SrcFile, DestFile);
+            logger.info("Screenshot taken");
         }catch (IOException e)
         {
             logger.error("Error while taking screenshot "+ e.getMessage());
